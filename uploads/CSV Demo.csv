@@ -1,0 +1,31 @@
+﻿Srno ,Name ,Height ,Weight,Color ,Hair ,Country ,Age ,Gender,Status,Cellphone No,Car Type,Car Color,Married,Income,Childern
+1,AAA,111,12,Black,Short,India ,56,Male,Permanent,1211,Hatchback,Black,No ,20000000,Yes 
+2,AAB,112,13,Brown,Short ,Pakistan ,56,Female ,Temporary ,1212,Sedan ,Black,Yes ,25025662,No 
+3,AAC,113,14,Red,Curly ,US,56,Both,Permanent,1213,SUV,Black,No ,65456545,No 
+4,AAD,114,15,Pink,Long ,Africa ,56,Male,Temporary ,1214,Truck,Black,No ,82283947.33,No 
+5,AAE,115,16,Yellow,Bald ,Sri Lanka ,56,Female ,Temporary ,1215,Sports ,Black,No ,105012219.8,Yes 
+6,AAF,116,17,Brown,Medium,Auustralia,56,Both,Temporary ,1216,Hatchback,Black,Yes ,127740492.3,Yes 
+7,AAG,117,18,Purple,Short,Brazil ,56,Male,Permanent,1217,Sedan ,Black,Yes ,150468764.8,Yes 
+8,AAH ,118,19,Violet,Short ,India ,56,Female ,Permanent,1218,SUV,Black,Yes ,173197037.3,No 
+9,AAA,119,20,Blue,Curly ,Pakistan ,56,Both,Permanent,1219,Truck,Black,No ,195925309.8,No 
+10,AAB,120,21,White,Long ,US,56,Male,Temporary ,1220,Sports ,Black,No ,218653582.3,No 
+11,AAC,121,22,Grey,Bald ,Africa ,56,Female ,Permanent,1221,Hatchback,Black,No ,241381854.8,Yes 
+12,AAD,122,23,Sandy,Medium,Sri Lanka ,56,Both,Temporary ,1222,Sedan ,Black,Yes ,264110127.3,Yes 
+13,AAE,123,24,Maroon,Short,Auustralia,56,Male,Temporary ,1223,SUV,Black,No ,286838399.8,Yes 
+14,AAF,124,25,Lavender,Short ,Brazil ,56,Female ,Temporary ,1224,Truck,Black,No ,309566672.3,No 
+15,AAG,125,26,Crimson,Curly ,India ,56,Both,Permanent,1225,Sports ,Black,No ,332294944.8,No 
+16,AAH ,126,27,Dark Blue,Long ,Pakistan ,56,Male,Permanent,1226,Hatchback,Black,Yes ,355023217.3,No 
+17,AAA,127,28,Green,Bald ,US,56,Female ,Permanent,1227,Sedan ,Black,Yes ,377751489.8,Yes 
+18,AAB,128,29,Orange,Medium,Africa ,56,Both,Temporary ,1228,SUV,Black,Yes ,400479762.3,Yes 
+19,AAC,129,30,Indigo,Short,Sri Lanka ,56,Male,Permanent,1229,Truck,Black,No ,423208034.8,Yes 
+20,AAD,130,31,Khakhi,Short ,Auustralia,56,Female ,Temporary ,1230,Sports ,Black,No ,445936307.3,No 
+21,AAE,131,32,Camel,Curly ,Brazil ,56,Both,Temporary ,1231,Hatchback,Black,No ,468664579.8,No 
+22,AAF,132,33,Silver,Long ,India ,56,Male,Temporary ,1232,Sedan ,Black,Yes ,491392852.3,No 
+23,AAG,133,34,Golden ,Bald ,Pakistan ,56,Female ,Permanent,1233,SUV,Black,No ,514121124.8,Yes 
+24,AAH ,134,35,Magenta ,Medium,US,56,Both,Permanent,1234,Truck,Black,No ,536849397.3,Yes 
+25,AAA,135,36,Lily,Short,Africa ,56,Male,Permanent,1235,Sports ,Black,No ,559577669.8,Yes 
+26,AAB,136,37,Teal,Short ,Sri Lanka ,56,Female ,Temporary ,1236,Hatchback,Black,Yes ,582305942.3,No 
+27,AAC,137,38,Neon Pink,Curly ,Auustralia,56,Both,Permanent,1237,Sedan ,Black,Yes ,605034214.8,No 
+28,AAD,138,39,Neon Yellow,Long ,Brazil ,56,Male,Temporary ,1238,SUV,Black,Yes ,627762487.3,No 
+29,AAE,139,40,Neon Blue ,Bald ,India ,56,Female ,Temporary ,1239,Truck,Black,No ,650490759.8,Yes 
+30,AAF,140,41,Neon Brown,Medium,Pakistan ,56,Both,Temporary ,1240,SUV,Black,No ,673219032.3,Yes 
